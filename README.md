@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/davidn-works/threat-hunting-scenario-tor)**
+- **[Azure Honeynet SOC](https://github.com/davidn-works/azure-honeynet-soc)**
 
 <hr/>
 
