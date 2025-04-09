@@ -14,6 +14,15 @@ I'm passionate about cybersecurity and IT. I love tackling complex challenges th
 - **[Threat Hunting Scenario (Tor Browser Usage, KQL, Microsoft Defender for Endpoint)](https://github.com/davidn-works/threat-hunting-scenario-tor)**
 - **[Azure Honeynet SOC](https://github.com/davidn-works/azure-honeynet-soc)**
 
+## IT Projects
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/davidn-works/osticket-prerequisites)
+  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/davidn-works/osticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/davidn-works/activedirectorysetup)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 <hr/>
 
 ## 🤳 Connect With Me
