@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/davidn-works/vulnerability-management)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/davidn-works/vulnerability-remediations)**
-- **[STIG Implementations (Windows, Windows Server, Ubuntu](https://github.com/davidn-works/STIGS)**
+- **[STIG Implementations (Windows, Windows Server, Ubuntu)](https://github.com/davidn-works/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
