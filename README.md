@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and IT. I love tackling complex challenges th
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/davidn-works/osticket-prerequisites)
-  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Post-Installation Configuration](https://github.com/davidn-works/osticket-postinstall/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/davidn-works/osticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/davidn-works/activedirectorysetup)
