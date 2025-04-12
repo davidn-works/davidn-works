@@ -25,6 +25,12 @@ I'm passionate about cybersecurity and IT. I love tackling complex challenges th
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 <hr/>
 
+## Certifications
+- ITIL
+- Linux Essentials
+- Security+ (Expected June 2025)
+- CISSP (Expected End of 2025)
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
